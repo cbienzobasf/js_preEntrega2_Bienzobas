@@ -47,7 +47,10 @@ El desarrollo de este proyecto integra en su gran mayoria los conceptos enseñad
    - Si el servicio existe, se muestran los detalles, si no, se informa al usuario.
    - Los resultados se muestran en `alert()` y se registran en la consola con `console.log()`.
 
-7. **Salir del Simulador**:
+7. **Costo Total y % Presupuesto**:
+   - El usuario puede calcular el costo total de los servicios seleccionados de la lista de servicios disponibles y determinar el porcentaje de presupuesto utilizado con base en un presupuesto ingresado.
+
+8. **Salir del Simulador**:
    - Opción 0 para usuario para salir del simulador.
 
 ## Criterios de Evaluación
